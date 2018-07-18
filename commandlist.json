@@ -1,0 +1,8 @@
+{
+    "commands": [
+        {
+            "command": "timerstart 6,0,30,dlm!bump",
+            "channel": "464270734282457098"
+        }
+    ]
+}
